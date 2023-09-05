@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4CAF50"
+    android:orientation="vertical"
+    tools:context=".ui.UserActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/cabin"
+        android:text="Vamos começar?"
+        android:textColor="@color/white"
+        android:textSize="36sp" />
+
+    <EditText
+        android:id="@+id/edit_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="200dp"
+        android:backgroundTint="#cccc"
+        android:gravity="center"
+        android:hint="Qual o seu nome?"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="30sp"
+        tools:context=".ui.UserActivity"
+
+        />
+
+    <Button
+        android:id="@+id/button_save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="300dp"
+        android:backgroundTint="@color/white"
+        android:text="Salvar"
+        android:textColor="#4CAF50"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:context=".ui.UserActivity"
+
+        />
+
+</LinearLayout>
