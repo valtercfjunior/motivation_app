@@ -7,14 +7,14 @@
 
 <p align="center">•
  <a href="#objetivo">Objetivo</a> •
- <a href="#tecnologias">Tecnologias</a> • 
+ //<a href="#tecnologias">Tecnologias</a> • 
  <a href="#autor">Autor</a> •
 </p>
 
 
 
 <h1 align="center">
-    <img src="app/src/main/assets/mock.png" style="width: 500px; border-radius:10px " >
+    <img src="app/src/main/assets/mock.png" style="width: 800px; border-radius:10px " >
     
     
 </h1>
