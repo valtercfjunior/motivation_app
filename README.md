@@ -14,7 +14,7 @@
 
 
 <h1 align="center">
-    <img src="./assets/api1.png" style="width: 500px; border-radius:10px " >
+    <img src="app/src/main/assets/mock.png" style="width: 500px; border-radius:10px " >
     
     
 </h1>
